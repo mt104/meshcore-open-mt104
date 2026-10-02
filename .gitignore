@@ -95,3 +95,4 @@ keystore.properties
 # Claude Code local working dir (worktrees, jobs, settings)
 .claude/
 macos/Podfile.lock
+android/build/reports/problems/problems-report.html
